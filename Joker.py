@@ -15,6 +15,6 @@ try:
     from requests.exceptions import ConnectionError
 except ModuleNotFoundError:
     os.system('pip install mechanize requests futures bs4==2 > /dev/null')
-    os.system('pip install bs4'
+    os.system('pip install bs4')
 
     কিরে মাদারচোদ স্ক্রিপ্ট চুরি করতে এসেছিস 
